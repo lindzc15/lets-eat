@@ -117,3 +117,7 @@ sample return: {
     "message": ""
 }
 ```
+
+## Future Work 
+Future work on this project would include the ability to add and interact with friends. Users would be able to share
+restaurants with their friends, view each others notes on restaurants, and collaborate on folders. Users would be able to edit and delete profile information. Users would also have the ability to search or filter to more quickly find restaurants a saved restaurant
