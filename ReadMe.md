@@ -1,4 +1,4 @@
-# CS 4900 Capstone Project
+# Let's Eat
 Let's Eat is my full stack web capstone project. It allows users to browse restaurants, save them to custom folders,
 and keep track of their favorite food and things to remember about each restaurant.
 
